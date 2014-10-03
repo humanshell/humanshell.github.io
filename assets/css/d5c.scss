@@ -1,0 +1,170 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+/* IMPORTS
+=================================================================*/
+
+@import 'normalize';
+@import 'fonts';
+@import 'fontawesome/font-awesome';
+
+
+/* GLOBAL
+=================================================================*/
+
+a {
+  text-decoration: none;
+  color: rgb(28, 28, 300);
+  &:hover { color: rgb(14, 14, 150); }
+}
+
+h1, .h1, h2, .h2,
+h3, .h3, h4, .h4,
+h5, .h5, h6, .h6 { line-height: normal; }
+
+h1, .h1 { font-size: 5em;  }
+h2, .h2 { font-size: 4em;  }
+h3, .h3 { font-size: 3em;  }
+h4, .h4 { font-size: 2em;  }
+h5, .h5 { font-size: 1em;  }
+h6, .h6 { font-size: .5em; }
+
+blockquote {
+  color: #666;
+  font-style: italic;
+  line-height: 1.8em;
+  border-left: 5px solid #ddd;
+  padding-left: 1.5em;
+}
+
+#page-wrap {
+  padding-left: 25%;
+  position: relative;
+}
+
+
+/* SIDEBAR
+=================================================================*/
+
+#sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 25%;
+  margin-left: -25%;
+  background: rgb(14, 14, 150);
+  color: #fff;
+  text-align: center;
+  border-right: solid #000 2px;
+  a {
+    color: #fff;
+    &:hover { color: #ddd; }
+  }
+  h2 {
+    margin: 0;
+    font-family: 'playtime';
+  }
+  p {
+    margin: 0;
+    font-weight: 100;
+    font-family: 'note-this';
+  }
+  header {
+    margin: 2em auto .5em;
+    img {
+      margin: .75em auto;
+      display: block;
+      border-radius: 50%;
+    }
+  }
+  nav {
+    ul {
+      margin: 1em 0;
+      text-align: center;
+      padding: 0;
+      li {
+        margin: 0 .25em;
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
+  }
+}
+
+
+/* MAIN CONTENT
+=================================================================*/
+
+#main-content {
+  padding: 2em;
+  nav {
+    text-align: center;
+    ul {
+      margin: 0;
+      padding: 0;
+      li {
+        display: inline-block;
+        vertical-align: middle;
+        a {
+          padding: 5px 20px;
+          color: #777;
+          &:hover, &.active { background: #eee; }
+        }
+      }
+    }
+  }
+  h1 {
+    text-align: center;
+    font-weight: 100;
+    font-family: 'archistico';
+  }
+  h2 {
+    font-family: 'print-clearly';
+    margin-bottom: 0;
+  }
+  .post-meta {
+    color: #999;
+    font-family: 'note-this';
+  }
+  article {
+    color: #444;
+    line-height: 1.5em;
+    font-family: 'latin-modern-roman';
+  }
+}
+
+
+/* FOOTER
+=================================================================*/
+
+footer {
+  font-family: 'note-this';
+  text-align: center;
+  margin-top: 3em;
+  color: #656565;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+
+/* MOBILE
+=================================================================*/
+
+@media (max-width: 767px) {
+  h1, .h1 { font-size: 2.55em;  }
+  h2, .h2 { font-size: 2em;  }
+  h3, .h3 { font-size: 1.5em;  }
+  h4, .h4 { font-size: 1em;  }
+  h5, .h5 { font-size: .5em;  }
+  h6, .h6 { font-size: .25em; }
+  
+  #page-wrap { padding: 0; }
+  
+  #sidebar {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+    margin: 0;
+  }
+}

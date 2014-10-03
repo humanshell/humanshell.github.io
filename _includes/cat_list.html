@@ -1,0 +1,7 @@
+<nav>
+  <ul>
+    {% for cat in site.categories %}
+      <li {% if page.url contains {{ cat | first }} %}class="pure-menu-selected"{% endif %}><a href="/{{ cat | first }}">{{ cat | first }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>

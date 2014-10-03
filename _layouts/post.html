@@ -1,0 +1,21 @@
+---
+layout: base
+---
+
+{% include cat_list.html %}
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <section class="post-meta">
+      <p>
+        {{ page.content | number_of_words }} words posted 
+        <time datetime="{{ page.date }}">{{ page.date | date_to_string }}</time> in 
+        {{ page.categories }}
+      </p>
+    </section>
+  </header>
+  <section>{{ content }}</section>
+</article>
+{% if page.comments %}
+  {% include comments.html %}
+{% endif %}

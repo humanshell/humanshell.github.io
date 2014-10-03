@@ -1,0 +1,15 @@
+<header>
+  <a href="/about/"><img src="{{ site.owner.avatar }}" alt="{{ site.owner.name}}'s avatar"></a>
+  <h2><a href="{{ site.url }}">{{ site.title }}</a></h2>
+  <p>{{ site.description }}</p>
+</header>
+
+<nav id="social-links">
+  <ul>
+    <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fa fa-rss fa-lg"></i></a></li>
+    <li><a href="{{ site.owner.github_url }}"><i class="fa fa-github fa-lg"></i></a></li>
+    <li><a href="{{ site.owner.twitter_url }}"><i class="fa fa-twitter fa-lg"></i></a></li>
+    <li><a href="{{ site.owner.instagram_url }}"><i class="fa fa-instagram fa-lg"></i></a></li>
+    <li><a href="{{ site.owner.linkedin_url }}"><i class="fa fa-linkedin fa-lg"></i></a></li>
+  </ul>
+</nav>

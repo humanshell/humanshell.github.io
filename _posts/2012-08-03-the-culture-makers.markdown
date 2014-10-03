@@ -1,0 +1,17 @@
+---
+layout: post
+title: The Culture Makers
+date: '2012-08-03 16:00:00'
+category: sociology
+tags: [school, bmcc]
+---
+
+It is said that you can tell a lot about the culture of a society by examining its tallest buildings. During the middle ages the church's steeple could be seen from every corner of a town or city, casting its dominance over the cultural beliefs of the inhabitants. Today we all live in the shadows of the gleaming steel and glass towers that proclaim the victory of capitalism and consumption.
+
+The dominant power in any society is the group that molds and crafts the ideas of "culture." In contemporary western society our ideas of culture, the norms that the majority are expected to follow, are often created by corporations. To say that corporations are powerful should come as no surprise; we all use products manufactured by corporations, wars are now increasingly fought with the help of corporations and, in the United States, a corporation is technically a person.
+
+There are, however, more subtle aspects to the awesome power wielded by corporations that directly affect the culture of a society. Every citizen of western civilization for the past 100 years has been raised, to a certain extent, by corporations. From the day we're born we are fed the food grown by corporations, suckle the formula developed by corporations, use medicine engineered by corporations and drive cars fueled with the petroleum refined by corporations. They are all powerful and ever present in almost all aspects of our lives. But from a cultural point of view their power is often less apparent.
+
+In modern society we get our ideas of culture and norms from media outlets such as television, radio, newspapers and magazines. For the past 75-100 years the corporations that control these outlets have exerted their influence and beliefs on our society as a whole. The corporations that control advertising tell us what to eat, what to wear and who's important. The news corporations tell us what to think and what to believe. From the moment we can sit up on our own we are pointed at a television through which corporations, seated in the power centers of both New York City and Hollywood, broadcast shows that teach us how we are expected to act. The internet has only just begun to alter this long standing cultural monopoly, although, it's estimated that only 33% of the world's population has access to the internet. Yet already we can see the pervasive presence of the corporate culture machine trying to use the internet to reach further into society than it's ever been able to before. The meteoric rise of a new generation of corporation - like Facebook, Google, Microsoft and Apple - will introduce us all to corporations that aren't just telling us what to think and how to act, they'll do it by analyzing every bit of digital information that they are currently collecting. In the near future we will all be analyzed in order to determine how we should be told to act.
+
+The spread of globalization, while often a boon to underdeveloped nations, only serves to extend the reach of the corporations responsible for profiting off of what they tell us to believe. Corporate consolidation at the highest levels is placing this control not only into fewer, more powerful hands, it's also extending the reach of those hands to every corner of the globe. Increasingly, our culture is being sold by the very same institutions that teach us what we're supposed to buy.
