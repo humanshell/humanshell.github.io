@@ -2,6 +2,8 @@
 layout: post
 title: Boss
 date: '2010-12-01 10:13:00'
+category: poetry
+tags: []
 ---
 
 Finding and feeling you learn your way,

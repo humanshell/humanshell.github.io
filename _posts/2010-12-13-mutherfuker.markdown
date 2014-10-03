@@ -2,6 +2,8 @@
 layout: post
 title: Mutherfuker;
 date: '2010-12-13 07:53:00'
+category: poetry
+tags: []
 ---
 
 When you find yourself thinking

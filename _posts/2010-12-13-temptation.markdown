@@ -2,6 +2,8 @@
 layout: post
 title: Temptation
 date: '2010-12-13 07:38:00'
+category: poetry
+tags: []
 ---
 
 If you could listen with your eyes

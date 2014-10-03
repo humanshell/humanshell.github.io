@@ -2,6 +2,8 @@
 layout: post
 title: Untitled
 date: '2010-12-13 08:02:00'
+category: poetry
+tags: []
 ---
 
 I live in a world where I rule

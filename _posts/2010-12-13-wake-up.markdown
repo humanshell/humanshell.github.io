@@ -2,6 +2,8 @@
 layout: post
 title: "!Wake Up!"
 date: '2010-12-13 07:52:00'
+category: poetry
+tags: []
 ---
 
 Speak with a meaning

@@ -2,6 +2,8 @@
 layout: post
 title: RemembeR
 date: '2010-12-13 07:43:00'
+category: poetry
+tags: []
 ---
 
 Strike the distance

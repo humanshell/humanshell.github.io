@@ -2,6 +2,8 @@
 layout: post
 title: On a Dead Horse About Town
 date: '2010-12-13 07:29:00'
+category: poetry
+tags: []
 ---
 
 People never cease to

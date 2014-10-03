@@ -2,6 +2,8 @@
 layout: post
 title: Einstein
 date: '2010-12-13 07:59:00'
+category: poetry
+tags: []
 ---
 
 You can look to the future

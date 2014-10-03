@@ -2,6 +2,8 @@
 layout: post
 title: Patriotic Love
 date: '2010-12-13 08:03:00'
+category: poetry
+tags: []
 ---
 
 I am astonished by the many faces

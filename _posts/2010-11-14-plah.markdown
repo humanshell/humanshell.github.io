@@ -2,6 +2,8 @@
 layout: post
 title: Plah
 date: '2010-11-14 12:45:00'
+category: poetry
+tags: []
 ---
 
 Feed the hunger with one hand,

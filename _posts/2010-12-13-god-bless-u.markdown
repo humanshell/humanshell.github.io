@@ -2,6 +2,8 @@
 layout: post
 title: God bless U(?)
 date: '2010-12-13 07:56:00'
+category: poetry
+tags: []
 ---
 
 Holy shit.

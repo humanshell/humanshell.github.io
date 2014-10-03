@@ -2,6 +2,8 @@
 layout: post
 title: Misunderstanding?
 date: '2010-12-01 10:14:00'
+category: poetry
+tags: []
 ---
 
 Light travels through great darkness,

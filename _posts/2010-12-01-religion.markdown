@@ -2,6 +2,8 @@
 layout: post
 title: Religion?
 date: '2010-12-01 10:12:00'
+category: poetry
+tags: []
 ---
 
 We hope & pray, with hands clenched tight-

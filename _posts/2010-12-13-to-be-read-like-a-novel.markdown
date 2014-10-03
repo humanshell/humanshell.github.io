@@ -2,6 +2,8 @@
 layout: post
 title: To be read like a novel...
 date: '2010-12-13 07:58:00'
+category: poetry
+tags: []
 ---
 
 Take into account how you feel in the morning.

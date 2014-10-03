@@ -2,6 +2,8 @@
 layout: post
 title: Warmth
 date: '2010-12-13 07:39:00'
+category: poetry
+tags: []
 ---
 
 The light of belief

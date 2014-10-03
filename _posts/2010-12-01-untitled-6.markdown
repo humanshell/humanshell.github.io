@@ -2,6 +2,8 @@
 layout: post
 title: untitled
 date: '2010-12-01 10:15:00'
+category: poetry
+tags: []
 ---
 
 i have come to the conclusion

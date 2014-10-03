@@ -2,6 +2,8 @@
 layout: post
 title: DREAMS
 date: '2010-12-13 07:45:00'
+category: poetry
+tags: []
 ---
 
 Continue to use the tools you have

@@ -2,6 +2,8 @@
 layout: post
 title: Beginning & End
 date: '2010-12-01 10:15:00'
+category: poetry
+tags: []
 ---
 
 If there were no love –

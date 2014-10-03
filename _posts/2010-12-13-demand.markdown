@@ -2,6 +2,8 @@
 layout: post
 title: Demand
 date: '2010-12-13 08:00:00'
+category: poetry
+tags: []
 ---
 
 Look around you

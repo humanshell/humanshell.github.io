@@ -2,6 +2,8 @@
 layout: post
 title: Why
 date: '2010-11-14 12:47:00'
+category: poetry
+tags: []
 ---
 
 Killing isn’t wrong, only perceived that way.
