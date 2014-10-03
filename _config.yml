@@ -5,6 +5,7 @@ timezone: America/New_York
 comments: false
 disqus_shortname: d5c
 #url: 'http://localhost:4000' # base hostname/protocol for dev site
+url: 'https://d5c.me' # base hostname/protocol for pro site
 
 # assets
 sass:
