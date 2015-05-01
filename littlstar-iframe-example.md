@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Littlstar iFrame Example
-permalink: /littlstar-iframe-example/
+permalink: /iframe/
 ---
 
 #### Little Arrow - I Man Ogre (360º Music Video)
