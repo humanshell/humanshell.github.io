@@ -8,7 +8,7 @@ Video (staging)
 
 <div class="lsplayer-frame-container" style="padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
   <iframe
-    src='https://staging-embed.littlstar.com/videos/d3a275d6'
+    src='http://staging-embed.littlstar.com/videos/9bd19d5c'
     width='640px'
     height='360px'
     class='lsplayer-frame'
@@ -22,7 +22,7 @@ Photo (staging)
 
 <div class="lsplayer-frame-container" style="padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
   <iframe
-    src='https://staging-embed.littlstar.com/photos/589ce357'
+    src='http://staging-embed.littlstar.com/photos/589ce357'
     width='640px'
     height='360px'
     class='lsplayer-frame'
@@ -36,7 +36,7 @@ Video (production)
 
 <div class="lsplayer-frame-container" style="padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
   <iframe
-    src='https://embed.littlstar.com/videos/a6d81d87'
+    src='http://embed.littlstar.com/videos/03d9fa8d'
     width='640px'
     height='360px'
     class='lsplayer-frame'
@@ -50,7 +50,7 @@ Photo (production)
 
 <div class="lsplayer-frame-container" style="padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;">
   <iframe
-    src='https://embed.littlstar.com/photos/ab664650'
+    src='http://embed.littlstar.com/photos/ab664650'
     width='640px'
     height='360px'
     class='lsplayer-frame'
