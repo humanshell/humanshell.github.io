@@ -15,7 +15,7 @@ Open http://localhost:4000. Files in `_drafts/` appear here but are never publis
 
 1. Start a draft:
 
-        ./newdraft "Your Post Title"
+        ./scripts/newdraft "Your Post Title"
 
    This creates `_drafts/your-post-title.markdown` with front matter ready to fill in.
 2. Write markdown below the front matter (`category:` and `tags: []` are optional).

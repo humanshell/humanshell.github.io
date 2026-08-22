@@ -10,7 +10,7 @@ file="_drafts/${slug}.markdown"
 
 [ -e "$file" ] && { echo "already exists: $file"; exit 1; }
 
-mkdir -p _drafts
+mkdir -p "_drafts"
 
 cat > "$file" <<EOF
 ---
