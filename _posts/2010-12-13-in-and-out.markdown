@@ -3,7 +3,7 @@ layout: post
 title: In and Out
 date: '2010-12-13 07:34:00'
 category: poetry
-tags: []
+tags: [identity, self, mirror]
 ---
 
 I’m thinking of someone

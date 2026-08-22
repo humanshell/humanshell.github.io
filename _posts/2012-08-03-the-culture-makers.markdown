@@ -3,7 +3,7 @@ layout: post
 title: The Culture Makers
 date: '2012-08-03 16:00:00'
 category: sociology
-tags: [school, bmcc]
+tags: [corporations, culture, media, advertising, globalization]
 ---
 
 It is said that you can tell a lot about the culture of a society by examining its tallest buildings. During the middle ages the church's steeple could be seen from every corner of a town or city, casting its dominance over the cultural beliefs of the inhabitants. Today we all live in the shadows of the gleaming steel and glass towers that proclaim the victory of capitalism and consumption.

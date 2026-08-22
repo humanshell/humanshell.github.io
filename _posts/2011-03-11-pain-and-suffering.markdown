@@ -3,7 +3,7 @@ layout: post
 title: Pain and Suffering
 date: '2011-03-11 17:00:00'
 category: essay
-tags: [school, bmcc]
+tags: [pain, suffering, philosophy, happiness, utilitarianism]
 ---
 
 Suffering is God’s Mother, and pain – His Father.  There isn’t a living being on this planet that hasn’t been exposed to suffering in some capacity.  You can see it in the faces of your closest friends and relatives, as well as find it’s stain on almost every form of artistic expression. Many outlets have been explored to express and convey these constructs in terms that we can understand, but few provide any comfort or solace. Pain and suffering, whether emotional or physical, are core components in defining who we are as sentient beings.

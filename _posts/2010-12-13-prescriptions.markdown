@@ -3,7 +3,7 @@ layout: post
 title: Prescriptions
 date: '2010-12-13 07:36:00'
 category: poetry
-tags: []
+tags: [pain, voyeurism, media, suffering]
 ---
 
 If there was only a way

@@ -3,7 +3,7 @@ layout: post
 title: I don’t mean to imply...
 date: '2010-12-13 07:55:00'
 category: poetry
-tags: []
+tags: [truth, illusion, simplicity, mortality]
 ---
 
 If we lived in a bed

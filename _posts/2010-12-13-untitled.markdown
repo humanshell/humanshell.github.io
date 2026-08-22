@@ -3,7 +3,7 @@ layout: post
 title: Untitled
 date: '2010-12-13 08:05:00'
 category: poetry
-tags: []
+tags: [future, change, adversity, resilience]
 ---
 
 As I knock on the door of my future

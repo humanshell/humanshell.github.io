@@ -3,7 +3,7 @@ layout: post
 title: On Top of It
 date: '2010-12-13 07:48:00'
 category: poetry
-tags: []
+tags: [emptiness, existence, thought, emotion]
 ---
 
 Can you touch an empty space

@@ -3,7 +3,7 @@ layout: post
 title: Ask Yourself
 date: '2010-12-13 07:47:00'
 category: poetry
-tags: []
+tags: [introspection, self-reflection, questions]
 ---
 
 Touch the sky everyday

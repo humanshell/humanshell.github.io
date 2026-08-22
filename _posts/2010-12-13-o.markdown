@@ -3,7 +3,7 @@ layout: post
 title: O
 date: '2010-12-13 07:42:00'
 category: poetry
-tags: []
+tags: [love, connection, time, longing]
 ---
 
 Thinking about love

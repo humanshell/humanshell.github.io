@@ -3,7 +3,7 @@ layout: post
 title: Them;They
 date: '2010-11-14 12:49:00'
 category: poetry
-tags: []
+tags: [inner-demons, struggle, endurance]
 ---
 
 Every so often I find myself battling demons

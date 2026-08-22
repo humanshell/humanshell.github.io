@@ -3,7 +3,7 @@ layout: post
 title: Truth
 date: '2010-12-13 07:27:00'
 category: poetry
-tags: []
+tags: [elements, dreams, imagination, truth]
 ---
 
 The water flows

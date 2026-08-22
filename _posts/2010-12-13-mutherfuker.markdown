@@ -3,7 +3,7 @@ layout: post
 title: Mutherfuker;
 date: '2010-12-13 07:53:00'
 category: poetry
-tags: []
+tags: [youth, justice, violence, society]
 ---
 
 When you find yourself thinking

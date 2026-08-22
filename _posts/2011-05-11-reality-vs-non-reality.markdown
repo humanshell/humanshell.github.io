@@ -3,7 +3,7 @@ layout: post
 title: Reality vs Non-Reality
 date: '2011-05-11 16:00:00'
 category: essay
-tags: [school, bmcc]
+tags: [reality, perception, imagination, relativity, glass-menagerie]
 ---
 
 John Lennon once said, “Reality leaves a lot to the imagination”. Any discussion of reality vs. non-reality will by its very nature be subject to the experience of the person speaking as much as that of the one listening. Reality like time, and to a certain extend the truth, is relative. Whether you’re analyzing a play, watching one of the numerous “reality” television programs, or waking up from a dream, you are experiencing a version of reality that exists singularly at that point in space and time. The thin line between perceived reality and imagined non-reality is nothing more than a conscious construct necessary to maintain one’s sanity.

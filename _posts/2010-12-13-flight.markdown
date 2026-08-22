@@ -3,7 +3,7 @@ layout: post
 title: Flight
 date: '2010-12-13 08:07:00'
 category: poetry
-tags: []
+tags: [freedom, oppression, imagination, perspective]
 ---
 
 The plural of the 2

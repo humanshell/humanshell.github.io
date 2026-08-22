@@ -3,7 +3,7 @@ layout: post
 title: Sociological Entropy
 date: '2012-04-09 16:00:00'
 category: sociology
-tags: [school, bmcc]
+tags: [entropy, sociology, thermodynamics, society]
 ---
 
 I'm currently reading The Fabric of the Cosmos by Brian Greene. The current section is all about the concept of time from the point of view of entropy, which is a way to measure the tendency of a physical system to move from an orderly to disorderly state. It is the second law of thermodynamics and was initially intended to be used in the analysis, design and management of large scale systems and processes where a measurement of the probabilities are needed to calculate the likely-hood of losing efficiency to heat. But it was later discovered by physicists that the equations could also be used to measure the probabilities of any complex system to always move from a state of order to disorder. It occurred to me that the ideas of entropy could just as easily be applied to sociology - since society, at its most basic, is just a large complex system made up of individual human beings (as opposed to individual machines or atoms and molecules). I think there is a kind of social entropy that is constantly at work, forever moving an orderly group of individuals to a state of chaos and disorder.

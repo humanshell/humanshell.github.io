@@ -3,7 +3,7 @@ layout: post
 title: Hold Me
 date: '2010-12-13 08:06:00'
 category: poetry
-tags: []
+tags: [freedom, barriers, acceptance, nature]
 ---
 
 If you can’t feel the rain

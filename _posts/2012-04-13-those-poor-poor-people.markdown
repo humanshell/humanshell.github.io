@@ -3,7 +3,7 @@ layout: post
 title: Those Poor Poor People
 date: '2012-04-13 16:00:00'
 category: sociology
-tags: [school, bmcc]
+tags: [poverty, class, stigma, society]
 ---
 
 The poor never get a break...

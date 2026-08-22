@@ -3,7 +3,7 @@ layout: post
 title: State of Affairs
 date: '2011-05-11 16:30:00'
 category: poetry
-tags: [school, bmcc]
+tags: [change, humanity, unity, mortality]
 ---
 
 The constant of change has persisted on

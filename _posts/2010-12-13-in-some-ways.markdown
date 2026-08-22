@@ -3,7 +3,7 @@ layout: post
 title: In Some Ways
 date: '2010-12-13 07:40:00'
 category: poetry
-tags: []
+tags: [indulgence, tenderness, conflict, fate]
 ---
 
 Patch the holes in your heart

@@ -3,7 +3,7 @@ layout: post
 title: 'To: Yesterday'
 date: '2010-12-13 07:33:00'
 category: poetry
-tags: []
+tags: [change, nostalgia, resistance, unity]
 ---
 
 To all who are listening

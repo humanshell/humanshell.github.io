@@ -3,7 +3,7 @@ layout: post
 title: Combinations
 date: '2010-12-13 07:38:00'
 category: poetry
-tags: []
+tags: [life, love, experience, philosophy]
 ---
 
 Life is never created

@@ -3,7 +3,7 @@ layout: post
 title: Imagine!
 date: '2010-12-13 07:41:00'
 category: poetry
-tags: []
+tags: [mirrors, identity, self-image]
 ---
 
 What if there were no mirrors

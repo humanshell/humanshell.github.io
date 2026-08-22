@@ -3,7 +3,7 @@ layout: post
 title: '2'
 date: '2010-12-01 10:16:00'
 category: poetry
-tags: []
+tags: [love, romance, longing]
 ---
 
 A better man I want to be

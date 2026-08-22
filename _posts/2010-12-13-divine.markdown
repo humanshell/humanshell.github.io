@@ -3,7 +3,7 @@ layout: post
 title: Divine
 date: '2010-12-13 07:25:00'
 category: poetry
-tags: []
+tags: [god, religion, war, skepticism]
 ---
 
 God is looking down on all

@@ -3,7 +3,7 @@ layout: post
 title: Globalization Affects Dictators Too
 date: '2012-03-17 16:00:00'
 category: sociology
-tags: [school, bmcc]
+tags: [globalization, syria, assad, sociology]
 ---
 
 Syria is just one of the Middle Eastern countries that's been affected by the ongoing "Arab Spring" that began in that part of the world over a year ago. Atrocities committed by government forces in the city of Homs, as well as other cities across that country, have kept Syria at the top of most major news broadcasts for the past several weeks. Rebel forces recently intercepted and leaked several thousand emails sent by Syrian President Bashar al-Assad. Amongst other things, these emails clearly show just how far globalization has spread in our modern world.

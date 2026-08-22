@@ -3,7 +3,7 @@ layout: post
 title: go
 date: '2010-12-13 07:45:00'
 category: poetry
-tags: []
+tags: [space, exploration, unknown, imagination]
 ---
 
 Space travel

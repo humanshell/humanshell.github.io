@@ -3,7 +3,7 @@ layout: post
 title: People Like Us
 date: '2012-04-23 16:00:00'
 category: sociology
-tags: [school, bmcc]
+tags: [class, stratification, socialization, america]
 ---
 
 The PBS documentary People Like Us illuminates a lot of interesting points about class in America. It explains how we organize ourselves into "tribes" based on similar interests and levels of income. These tribes do not remain static over the course of our lives. As we grow and change, the members of our tribe also change. We join new tribes and leave old ones. More often than not these tribes are based on race and income level. Interestingly, Americans, while living in this dynamic class structure, refuse to acknowledge that it exists; clinging hopelessly instead to the false ideal of "American Equality" endlessly perpetuated by socialization.

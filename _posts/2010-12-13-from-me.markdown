@@ -3,7 +3,7 @@ layout: post
 title: From Me
 date: '2010-12-13 07:57:00'
 category: poetry
-tags: []
+tags: [solitude, existence, transcendence, enlightenment]
 ---
 
 I find myself alone

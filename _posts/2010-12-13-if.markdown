@@ -3,7 +3,7 @@ layout: post
 title: If?
 date: '2010-12-13 07:46:00'
 category: poetry
-tags: []
+tags: [touch, senses, infinity, universe]
 ---
 
 Touch if,

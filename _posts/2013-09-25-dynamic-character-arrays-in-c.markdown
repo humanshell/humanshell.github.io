@@ -3,7 +3,7 @@ layout: post
 title: Dynamic Character Arrays in C
 date: '2013-09-25 16:00:00'
 category: programming
-tags: [c]
+tags: [c, pointers, dynamic-memory, arrays, data-structures]
 comments: true
 ---
 

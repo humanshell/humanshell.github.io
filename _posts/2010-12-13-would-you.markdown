@@ -3,7 +3,7 @@ layout: post
 title: "?Would You?"
 date: '2010-12-13 07:44:00'
 category: poetry
-tags: []
+tags: [fate, chance, caution, resilience]
 ---
 
 Look out for those

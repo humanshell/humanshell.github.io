@@ -3,7 +3,7 @@ layout: post
 title: untitled
 date: '2010-12-01 10:16:00'
 category: poetry
-tags: []
+tags: [perception, unconsciousness, death]
 ---
 
 The depths of perception

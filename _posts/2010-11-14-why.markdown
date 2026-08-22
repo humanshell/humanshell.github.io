@@ -3,7 +3,7 @@ layout: post
 title: Why
 date: '2010-11-14 12:47:00'
 category: poetry
-tags: []
+tags: [killing, morality, human-nature, perception]
 ---
 
 Killing isn’t wrong, only perceived that way.

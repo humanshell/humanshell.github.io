@@ -3,7 +3,7 @@ layout: post
 title: Global Water Resources
 date: '2011-05-18 16:00:00'
 category: essay
-tags: [school, bmcc]
+tags: [water, scarcity, global-health, energy, sustainability]
 ---
 
 Carl Sagan once called the Earth a “pale blue dot”. This is due to the fact that 97% of our little world is covered by water. This divine liquid has given rise to every form of life that currently exists on our planet as well as all the others that came before us. It is often said that water is the elixir of life. More specifically it is clean, drinkable, potable water that is the true enabler of not only our physical evolution but, more importantly, the ability of entire civilizations to pull themselves out of poverty and into productive, economically viable societies. Access to clean drinking water is most often the deciding factor in determining the heath and well being of a people. Unfortunately this all-important ingredient in the success of a stable and progressive society is often the hardest resource to acquire. If the global community cannot agree on a course of action to secure access to clean water for all inhabitants of our pale blue dot then not only will most of our fellow earthlings perish from disease and famine, many more will suffer in the eventual conflicts over the most basic of human needs…thirst.

@@ -3,7 +3,7 @@ layout: post
 title: Speak with a Sensation
 date: '2010-12-13 07:49:00'
 category: poetry
-tags: []
+tags: [existence, eternity, chaos, life]
 ---
 
 Your existence is eternal

@@ -3,7 +3,7 @@ layout: post
 title: Questions?
 date: '2010-12-13 07:32:00'
 category: poetry
-tags: []
+tags: [darkness, evil, fear, questions]
 ---
 
 Out of the darkness

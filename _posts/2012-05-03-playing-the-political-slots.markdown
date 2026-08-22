@@ -3,7 +3,7 @@ layout: post
 title: Playing the Political Slots
 date: '2012-05-03 16:00:00'
 category: sociology
-tags: [school, bmcc]
+tags: [native-americans, casinos, lobbying, sovereignty, politics]
 ---
 
 The sociological influence wielded by the Native American tribes in the United States is profound to say the least. From government programs and subsidies to political lobbying, these tribes create opportunities for themselves that are unavailable to almost every other minority group in America. Money affords a special few Native American tribes access to an elevated status in the American political system, allowing those tribes to succeed while others languish in poverty.

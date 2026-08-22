@@ -3,7 +3,7 @@ layout: post
 title: Untitled
 date: '2010-12-13 08:01:00'
 category: poetry
-tags: []
+tags: [solitude, harmony, escapism]
 ---
 
 I’d like to go to a place

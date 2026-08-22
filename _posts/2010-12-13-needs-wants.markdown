@@ -3,7 +3,7 @@ layout: post
 title: Needs & Wants
 date: '2010-12-13 07:57:00'
 category: poetry
-tags: []
+tags: [desire, dreams, needs, aspiration]
 ---
 
 I would like to run

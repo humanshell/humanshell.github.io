@@ -3,7 +3,7 @@ layout: post
 title: Deploying Ghost to Heroku
 date: '2013-09-24 16:00:00'
 category: programming
-tags: [ghost]
+tags: [ghost, heroku, nodejs, deployment, blogging]
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Patriotic Love
 date: '2010-12-13 08:03:00'
 category: poetry
-tags: []
+tags: [patriotism, unity, love, memory]
 ---
 
 I am astonished by the many faces

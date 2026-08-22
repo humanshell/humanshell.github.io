@@ -3,7 +3,7 @@ layout: post
 title: 4 – What?
 date: '2010-12-01 10:12:00'
 category: poetry
-tags: []
+tags: [enlightenment, rebellion, individuality]
 ---
 
 Finding enlightenment isn’t hard,
