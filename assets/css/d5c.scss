@@ -146,9 +146,13 @@ blockquote {
     font-family: 'note-this';
   }
   article {
-    color: #444;
     line-height: 1.5em;
     font-family: 'latin-modern-roman';
+    .token-input {
+      background: #f3f3f3;
+      padding: .5rem;
+      border-radius: .5rem;;
+    }
   }
 }
 
