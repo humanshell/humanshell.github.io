@@ -3,8 +3,19 @@ layout: base
 ---
 
 <section>
-  {% include cat_list.html %}
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     {% include post.html %}
   {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+  <nav id="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}">&laquo; Newer</a>
+    {% endif %}
+    <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}">Older &raquo;</a>
+    {% endif %}
+  </nav>
+  {% endif %}
 </section>

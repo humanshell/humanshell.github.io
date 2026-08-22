@@ -1,11 +1,10 @@
 # global
 title: d5c.me
 description: freedom through expression
+copyright-year: 2026
 timezone: America/New_York
-comments: false
-disqus_shortname: d5c
-#url: 'http://localhost:4000' # base hostname/protocol for dev site
-url: 'http://d5c.me' # base hostname/protocol for pro site
+paginate: 10
+url: 'https://humanshell.github.io'
 
 # assets
 sass:
@@ -17,12 +16,10 @@ owner:
   name: Dominic Giglio
   avatar: https://s.gravatar.com/avatar/38c5bae94ba60ea37f292e68cf7c2454?s=100
   email: humanshell@gmail.com
-  twitter_url: https://twitter.com/human_shell
   github_url: https://github.com/humanshell
-  instagram_url: https://instagram.com/drinkalcohol420
   linkedin_url: http://www.linkedin.com/pub/dominic-giglio/42/721/6b0
 
 # markdown
 kramdown:
-  coderay:
-    coderay_tab_width: 2
+  syntax_highlighter_opts:
+    tab_width: 2

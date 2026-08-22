@@ -41,7 +41,7 @@ blockquote {
 }
 
 #page-wrap {
-  padding-left: 25%;
+  padding-left: 20%;
   position: relative;
 }
 
@@ -53,8 +53,8 @@ blockquote {
   position: fixed;
   top: 0;
   bottom: 0;
-  width: 25%;
-  margin-left: -25%;
+  width: 20%;
+  margin-left: -20%;
   background: rgb(14, 14, 150);
   color: #fff;
   text-align: center;
@@ -81,6 +81,14 @@ blockquote {
     }
   }
   nav {
+    h3 {
+      margin: 1.5em 0 .25em;
+      font-size: .8em;
+      font-weight: 100;
+      text-transform: uppercase;
+      letter-spacing: .15em;
+      color: rgba(255, 255, 255, .6);
+    }
     ul {
       margin: 1em 0;
       text-align: center;
@@ -91,6 +99,14 @@ blockquote {
         vertical-align: middle;
       }
     }
+  }
+  #category-list ul li {
+    display: block;
+    margin: .35em 0;
+  }
+  #category-list a,
+  #tag-cloud a {
+    font-family: 'latin-modern-roman';
   }
 }
 
@@ -136,6 +152,14 @@ blockquote {
   }
 }
 
+#pagination {
+  margin-top: 3em;
+  text-align: center;
+  font-family: 'note-this';
+  color: #999;
+  span { margin: 0 1em; }
+}
+
 
 /* FOOTER
 =================================================================*/
@@ -160,9 +184,9 @@ footer {
   h4, .h4 { font-size: 1em;  }
   h5, .h5 { font-size: .5em;  }
   h6, .h6 { font-size: .25em; }
-  
+
   #page-wrap { padding: 0; }
-  
+
   #sidebar {
     width: 100%;
     position: relative;
@@ -179,7 +203,7 @@ footer {
       }
     }
   }
-  
+
   #main-content {
     padding: 1em;
     nav {

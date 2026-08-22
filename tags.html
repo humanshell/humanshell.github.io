@@ -1,0 +1,14 @@
+---
+layout: page
+title: Tags
+permalink: /tags/
+---
+
+{% for tag in site.tags %}
+  <h2 id="{{ tag | first | slugify }}">{{ tag | first }}</h2>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-meta">{{ post.date | date_to_string }}</span></li>
+    {% endfor %}
+  </ul>
+{% endfor %}

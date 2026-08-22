@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+# Create a new post draft: ./newdraft "My Post Title"
+set -euo pipefail
+
+[ $# -eq 1 ] || { echo "usage: $0 \"Post Title\""; exit 1; }
+
+title="$1"
+slug=$(printf '%s' "$title" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g; s/^-+|-+$//g')
+file="_drafts/${slug}.markdown"
+
+[ -e "$file" ] && { echo "already exists: $file"; exit 1; }
+
+mkdir -p _drafts
+
+cat > "$file" <<EOF
+---
+layout: post
+title: "${title}"
+category:
+tags: []
+---
+
+EOF
+
+echo "created ${file}"

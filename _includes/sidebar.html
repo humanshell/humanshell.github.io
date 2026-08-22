@@ -8,8 +8,24 @@
   <ul>
     <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"><i class="fa fa-rss fa-lg"></i></a></li>
     <li><a href="{{ site.owner.github_url }}"><i class="fa fa-github fa-lg"></i></a></li>
-    <li><a href="{{ site.owner.twitter_url }}"><i class="fa fa-twitter fa-lg"></i></a></li>
-    <li><a href="{{ site.owner.instagram_url }}"><i class="fa fa-instagram fa-lg"></i></a></li>
     <li><a href="{{ site.owner.linkedin_url }}"><i class="fa fa-linkedin fa-lg"></i></a></li>
+  </ul>
+</nav>
+
+<nav id="category-list">
+  <h3>categories</h3>
+  <ul>
+    {% for cat in site.categories %}
+      <li><a href="/{{ cat | first }}">{{ cat | first }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
+<nav id="tag-cloud">
+  <h3>tags</h3>
+  <ul>
+    {% for tag in site.tags %}
+      <li style="font-size: {{ tag[1].size | times: 0.15 | plus: 0.85 | at_most: 1.5 }}em"><a href="/tags/#{{ tag | first | slugify }}">{{ tag | first }}</a></li>
+    {% endfor %}
   </ul>
 </nav>
