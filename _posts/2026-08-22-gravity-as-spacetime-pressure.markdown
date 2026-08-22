@@ -3,7 +3,7 @@ layout: post
 title: "Gravity as Spacetime Pressure"
 date: '2026-08-22 18:36:00'
 category: inference
-tags: []
+tags: [gravity, quantum-mechanics, consciousness, impermanence, observation]
 ---
 
 <p class="token-input">im wondering if it's possible that gravity is not an "attractive" force. could it instead be the opposite? gravity is the experience of spacetime "pressing" down onto mass displacing it? so it would be more like measuring the pressure of water on the hull of a submarine?</p>
