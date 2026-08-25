@@ -17,6 +17,14 @@
   <link rel="icon" href="{{ site.owner.avatar }}">
 
   <link rel="stylesheet" type="text/css" href="/assets/css/d5c.css" />
-  
+
+  <script>
+    // apply stored theme before first paint; no stored choice = follow system
+    (function () {
+      var t = localStorage.getItem('theme');
+      if (t) document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </head>

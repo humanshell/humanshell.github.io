@@ -10,13 +10,60 @@
 @import 'fontawesome/font-awesome';
 
 
+/* THEME (main content only — sidebar keeps fixed colors)
+================================================================*/
+
+@mixin dark-vars {
+  color-scheme: dark;
+  --bg: #14141c;
+  --text: #e8e8ea;
+  --link: #8c8cff;
+  --link-hover: #b3b3ff;
+  --meta: #9a9aa5;
+  --quote: #b8b8c0;
+  --nav-muted: #a0a0ab;
+  --surface: #26262f;
+  --border: #33333e;
+  --surface-alt: #1e1e28;
+  --surface-zebra: #191922;
+  --footer-muted: #8f8f99;
+}
+
+:root {
+  color-scheme: light;
+  --bg: #fff;
+  --text: #000;
+  --link: rgb(28, 28, 255);
+  --link-hover: rgb(14, 14, 150);
+  --meta: #999;
+  --quote: #666;
+  --nav-muted: #777;
+  --surface: #eee;
+  --border: #ddd;
+  --surface-alt: #f3f3f3;
+  --surface-zebra: #fafafa;
+  --footer-muted: #656565;
+}
+
+[data-theme='dark'] { @include dark-vars; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) { @include dark-vars; }
+}
+
+
 /* GLOBAL
-=================================================================*/
+================================================================*/
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
 
 a {
   text-decoration: none;
-  color: rgb(28, 28, 255);
-  &:hover { color: rgb(14, 14, 150); }
+  color: var(--link);
+  &:hover { color: var(--link-hover); }
 }
 
 h1, .h1, h2, .h2,
@@ -33,10 +80,10 @@ h6, .h6 { font-size: .5em; }
 iframe { max-width: 100%; }
 
 blockquote {
-  color: #666;
+  color: var(--quote);
   font-style: italic;
   line-height: 1.8em;
-  border-left: 5px solid #ddd;
+  border-left: 5px solid var(--border);
   padding-left: 1.5em;
 }
 
@@ -108,6 +155,15 @@ blockquote {
   #tag-cloud a {
     font-family: 'latin-modern-roman';
   }
+  #theme-toggle {
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    color: #fff;
+    cursor: pointer;
+    &:hover { color: #ddd; }
+  }
 }
 
 
@@ -126,8 +182,8 @@ blockquote {
         vertical-align: middle;
         a {
           padding: 5px 20px;
-          color: #777;
-          &:hover, &.active { background: #eee; }
+          color: var(--nav-muted);
+          &:hover, &.active { background: var(--surface); }
         }
       }
     }
@@ -142,26 +198,26 @@ blockquote {
     margin-bottom: 0;
   }
   .post-meta {
-    color: #999;
+    color: var(--meta);
     font-family: 'note-this';
   }
   article {
     line-height: 1.5em;
     font-family: 'latin-modern-roman';
     .token-input {
-      background: #f3f3f3;
+      background: var(--surface-alt);
       padding: .5rem;
       border-radius: .5rem;;
     }
     table {
       margin: 1em 0;
       th, td {
-        border: 1px solid #ddd;
+        border: 1px solid var(--border);
         padding: .4em .75em;
         text-align: left;
       }
-      th { background: #f3f3f3; }
-      tr:nth-child(even) td { background: #fafafa; }
+      th { background: var(--surface-alt); }
+      tr:nth-child(even) td { background: var(--surface-zebra); }
     }
   }
 }
@@ -170,7 +226,7 @@ blockquote {
   margin-top: 3em;
   text-align: center;
   font-family: 'note-this';
-  color: #999;
+  color: var(--meta);
   span { margin: 0 1em; }
 }
 
@@ -182,7 +238,7 @@ footer {
   font-family: 'note-this';
   text-align: center;
   margin-top: 3em;
-  color: #656565;
+  color: var(--footer-muted);
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -210,9 +266,9 @@ footer {
       ul {
         li {
           margin: .25em .75em;
-          a {
-            i { font-size: 2.33333em; }
-          }
+        a, #theme-toggle {
+          i { font-size: 2.33333em; }
+        }
         }
       }
     }
